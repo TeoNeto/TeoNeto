@@ -1,0 +1,12 @@
+[Conteúdo do arquivo a ser lido]
+102Jhon Lenon              EN1200001000231000
+130Michael dos Santos      PT1500005000250800
+990Mariano Luz             HO1700005000031000
+023José João Jairo da SilvaPT2200100000020103
+412Marcus Polo dos Santos  EN3901200000030710
+234Thiago Brava Nandes     FR4012000000170823
+324Raimundo Nonato Pereira PT6300200000150930
+765Maicon Marculino Faris  FR8200600000050462
+756Jhonny Bravo Souza      PT1800078500020601
+[/Conteúdo do arquivo a ser lido]
+
